@@ -22,7 +22,7 @@ namespace SteveHash
 
             if (string.IsNullOrEmpty(password))
             {
-                Console.WriteLine("PLease enter a password");
+                Console.WriteLine("Please enter a password");
             }
             else
             {
