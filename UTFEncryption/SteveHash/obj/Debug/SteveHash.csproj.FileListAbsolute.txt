@@ -1,0 +1,6 @@
+C:\Users\steve\Desktop\MegaFile\Code\C#\SteveHash\SteveHash\bin\Debug\SteveHash.exe.config
+C:\Users\steve\Desktop\MegaFile\Code\C#\SteveHash\SteveHash\bin\Debug\SteveHash.exe
+C:\Users\steve\Desktop\MegaFile\Code\C#\SteveHash\SteveHash\bin\Debug\SteveHash.pdb
+C:\Users\steve\Desktop\MegaFile\Code\C#\SteveHash\SteveHash\obj\Debug\SteveHash.csprojResolveAssemblyReference.cache
+C:\Users\steve\Desktop\MegaFile\Code\C#\SteveHash\SteveHash\obj\Debug\SteveHash.exe
+C:\Users\steve\Desktop\MegaFile\Code\C#\SteveHash\SteveHash\obj\Debug\SteveHash.pdb
